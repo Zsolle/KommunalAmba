@@ -3,61 +3,61 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "Kommunal"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "Kommunal-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "Kommunal-platform"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "Kommunal-platform"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "Kommunal-platform"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "Kommunal-landingzones"
     },
     "enableAMBAConnectivity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAIdentity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAManagement": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAServiceHealth": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBANotificationAssets": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAHybridVM": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAKeyManagement": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBALoadBalancing": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBANetworkChanges": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBARecoveryServices": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAStorage": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAVM": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAWeb": {
-      "value": "Yes"
+      "value": "No"
     },
     "telemetryOptOut": {
       "value": "No"
@@ -72,13 +72,13 @@
       "value": "id-amba-prod-001"
     },
     "managementSubscriptionId": {
-      "value": ""
+      "value": "f8bd69ba-1e24-4747-8935-d1ad4be51d0f"
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "swedencentral"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
